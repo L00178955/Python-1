@@ -1,0 +1,8 @@
+__author__ = "RajaSekhara Reddy"
+__contact__ = "raja444reddy@.com"
+__copyright__ = "Copyright $YEAR, RAJA"
+__date__ = "23DEC23"
+__deprecated__ = False
+__license__ = "GPLv3"
+__status__ = "Production"
+__version__ = "1.2.1"
