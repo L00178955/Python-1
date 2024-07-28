@@ -1,0 +1,6 @@
+if create_directory("JOR"):
+        print("Creating a directory worked")
+        # Do other stuff
+    else:
+        print("You couldn't create a directory!")
+        # Do other stuff

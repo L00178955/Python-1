@@ -1,0 +1,13 @@
+# Now test the second byte to identify the frame type
+if SecondByte == 0x00:                                   
+    # AA0x Data frame
+    self.FrameType = 'Data'      
+elif SecondByte == 0x10:                                
+    # AA1x Header frame
+    self.FrameType = 'Header'      
+elif SecondByte == 0x20:                                
+    # AA2x Configuration Frame1
+    self.FrameType = 'ConfigurationFrame1'                
+else:                                                                    
+    # Corrupt data?
+    self.FrameType = 'Unknown'

@@ -1,0 +1,3 @@
+print("press [ctrl][c] to exit")
+while 1:
+    pass
