@@ -1,4 +1,0 @@
-while condition:
-    # Execute code block
-else:
-    # Execute something else

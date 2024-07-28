@@ -1,9 +1,0 @@
-if create_directory("RAJA") == 0:
-        print("Creating a directory worked")
-        # Do other stuff
-    elif create_directory("RAJA") == 1:
-        print("You couldn't create a directory!")
-        # Do other stuff
-    elif create_directory("RAJA") == 2:
-        print("Directory already existed!")
-        # Do other stuff

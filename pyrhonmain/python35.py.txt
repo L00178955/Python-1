@@ -1,5 +1,0 @@
-def name_of_function():
-    """
-    Simple test function
-    """
-    print("Yaa lol!")

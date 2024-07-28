@@ -1,1 +1,0 @@
-This module is called mylib.cube

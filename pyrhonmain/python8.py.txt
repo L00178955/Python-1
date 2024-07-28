@@ -1,8 +1,0 @@
-
-Python 3.11.0 (main, Dec 23 2023, 18:26:48) [MSC v.1933 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>> a = "RAJA" + 3/2
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-TypeError: can only concatenate str (not "float") to str
->>>
