@@ -1,0 +1,7 @@
+download from here https://www.python.org/downloads/release/python-3124/
+follow the instruction as its a installer file.
+
+after installing check the version by typing  in command line #python -v to find out the version.
+
+command line instalation.
+#choco install python.
